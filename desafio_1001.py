@@ -12,3 +12,13 @@ você receberá "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
 # Escreva sua solução abaixo
+
+# Leitura dos dois valores inteiros
+A = int(input())
+B = int(input())
+
+# Soma
+X = A + B
+
+# Impressão do resultado
+print("X =", X)
